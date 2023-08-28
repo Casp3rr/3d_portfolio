@@ -107,7 +107,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2019 - NOVEMBER 2020",
     points: [
-    "Providing technical assistance and troubleshooting to end-users regarding hardware, software, network and system related issues.",
+      "Providing technical assistance and troubleshooting to end-users regarding hardware, software, network and system related issues.",
       "Resolving technical problems promptly and effectively to minimize downtime.",
     ],
   },
@@ -242,7 +242,7 @@ const projects = [
   {
     name: "Nike Store",
     description:
-        "A Nike store landing page built with react.js and tailwindcss,",
+      "A Nike store landing page built with react.js and tailwindcss,",
     link: "https://nike-store-f2zevm813-casp3rr.vercel.app/",
     tags: [
       {
